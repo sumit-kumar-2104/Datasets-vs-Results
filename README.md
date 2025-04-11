@@ -3,7 +3,7 @@ In the following the final Dataset is defined as
 
 (Balanced dataset X 2) i.e., Balanced dataset two times
 
-and the ratio of train, valid, test used is 80,15,5 respectively.
+The ratio of train, valid, test used is 80,15,5 respectively.
 
 # DDR
 
