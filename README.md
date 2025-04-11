@@ -2,7 +2,9 @@
 
 # DDR
 
-| Dataset       | Precision (B) | Recall (B) | mAP50 (B) | mAP50-95 (B) |
+Original Dataset:
+
+|Class    | Precision (B) | Recall (B) | mAP50 (B) | mAP50-95 (B) |
 |------------|-------------|-----------|-----------|-------------|
 | all         |   0.619   |   0.747   |   0.727   |   0.727|
  |  0       |    0.834   |   0.983   |    0.97    |   0.97|
